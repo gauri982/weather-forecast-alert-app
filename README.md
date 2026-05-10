@@ -82,6 +82,7 @@ Weather-Forecast-Alert-Application/
 
 
 ---
+![Working Demo](outputs/workingdemo.mp4)
 
 ## ⚙️ Installation & Setup
 
